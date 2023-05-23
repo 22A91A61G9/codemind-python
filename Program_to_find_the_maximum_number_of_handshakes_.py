@@ -1,3 +1,3 @@
-n=int(input())
-c=n*(n-1)//2;
-print(c)
+a=int(input())
+b=(a*(a-1))/2
+print("%d"%b)
